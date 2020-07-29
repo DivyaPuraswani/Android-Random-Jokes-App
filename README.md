@@ -7,7 +7,7 @@ Time spent: *2* hours spent in total
 
 The following *required* functionality is complete:
 
-* [ ] Users can view Jokes in different languages i.e as per language setting done in mobile.
+* [ ] Users can view Jokes in different languages i.e as per language setting done in mobile. Languages set are English, German and France.
 
 ## Video Walkthrough 
 
