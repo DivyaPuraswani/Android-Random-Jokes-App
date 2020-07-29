@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Random Jokes App</string>
+    <string name="jokes_activity_title">Jokes</string>
+    <string name="main_activity_overline">Laughter is the best medicine</string>
+    <string name="main_activity_title">Hear some jokes?</string>
+    <string name="main_activity_button">See jokes</string>
+    <string name="jokes_activity_button">Next joke</string>
+    <string name="back_activity_button">Back</string>
+
+    <!--Jokes from Google Home's "tell me a joke" feature-->
+    <string-array name="jokes">
+        <item>Why you shouldn\'t write with a broken pencil?\n\n\n\n… because it\'s pointless</item>
+        <item>What happens when a frog\'s car breaks?\n\n\n\n… it gets toad</item>
+        <item>What do you get when you put a vest on an alligator?\n\n\n\n… an investigator</item>
+        <item>Why was the stadium so cool?\n\n\n\n… it was filled with fans</item>
+        <item>Did you hear about the two antennas that got married?\n\n\n\n… the ceremony was okay, but, the reception was great!</item>
+        <item>Why was the cheetah so bad at hide and seek?\n\n\n\n… no matter where she hid, she was always spotted</item>
+        <item>What does a nosy pepper do?\n\n\n\n… it gets jalapeno business</item>
+        <item>Why does a duck have tail feathers?\n\n\n\n… to cover its butt-quack</item>
+        <item>What did the teacher do with her students\' report on the history of cheese?\n\n\n\n… she grated it</item>
+        <item>What do cats eat for breakfast?\n\n\n\n… mice-krispies</item>
+        <item>Why didn\'t the melons get married?\n\n\n\n… because they can\'t elope</item>
+        <item>What do clouds wear under their shorts?\n\n\n\n… thunder-pants</item>
+    </string-array>
+    <!--TODO (19): Change the phone language to German.-->
+    <!--TODO (20): Restart the app-->
+    <!--TODO (21): Notice how all the text still remains in English-->
+
+    <!--TODO (22): Create a new strings.xml file with the German language qualifier-->
+    <!--TODO (23): Change all the text in this new strings.xml file to german-->
+
+    <!--TODO (24): Restart the app-->
+    <!--TODO (25): Notice that now all the text is in German. Why is that?-->
+
+</resources>

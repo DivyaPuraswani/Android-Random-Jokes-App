@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Application de blagues aléatoires</string>
+    <string name="jokes_activity_title">Blagues</string>
+    <string name="main_activity_overline">Le rire est la meilleure médecine</string>
+    <string name="main_activity_title">Vous entendez des blagues?</string>
+    <string name="main_activity_button">Voir des blagues</string>
+    <string name="jokes_activity_button">Blague suivante</string>
+    <string name="back_activity_button">Arrière</string>
+
+    <!--Jokes from Google Home's "tell me a joke" feature-->
+    <string-array name="jokes">
+        <item>Pourquoi vous ne devriez pas écrire avec un crayon cassé? \n\n\n\n… parce que c\est inutile</item>
+        <item>Que se passe-t-il quand la voiture dune grenouille tombe en panne? \n\n\n\n… ça devient crapaud</item>
+        <item>Quest-ce que vous obtenez lorsque vous mettez un gilet sur un alligator? \n\n\n\n… un enquêteur</item>
+        <item>Pourquoi le stade était-il si cool? \n\n\n\n… il était rempli de fans</item>
+        <item>Avez-vous entendu parler des deux antennes qui se sont mariées? \n\n\n\n… la cérémonie sest bien passée, mais laccueil a été formidable!</item>
+        <item>Pourquoi le guépard était-il si mauvais à cache-cache? \n\n\n\n… peu importe où elle se cachait, elle était toujours repérée</item>
+        <item>Que fait un poivron curieux? \n\n\n\n… il fait des affaires de jalapeno</item>
+        <item>Pourquoi un canard a-t-il des plumes de la queue? \n\n\n\n… pour couvrir ses fesses</item>
+        <item>Qua fait lenseignante du rapport de ses élèves sur lhistoire du fromage? \n\n\n\n… elle la râpé</item>
+        <item>Que mangent les chats au petit-déjeuner? \n\n\n\n… mice-krispies</item>
+        <item>Pourquoi les melons ne se sont-ils pas mariés? \n\n\n\n… parce quils ne peuvent pas senfuir</item>
+        <item>Que portent les nuages ​​sous leur short? \n\n\n\n… pantalon de tonnerre</item>
+    </string-array>
+
+
+
+
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Zufällige Witze App</string>
+    <string name="jokes_activity_title">Witze</string>
+    <string name="main_activity_overline">Lachen ist die beste Medizin</string>
+    <string name="main_activity_title">Witze hören?</string>
+    <string name="main_activity_button">Siehe Witze</string>
+    <string name="jokes_activity_button">Nächster Witz</string>
+    <string name="back_activity_button">Zurück</string>
+
+    <!--Jokes from Google Home's "tell me a joke" feature-->
+    <string-array name="jokes">
+        <item>Warum sollten Sie nicht mit einem gebrochenen Bleistift schreiben\n\n\n\n… weil es sinnlos ist</item>
+        <item>Was passiert, wenn das Auto eines Frosches kaputt geht\n\n\n\n… es wird Kröte</item>
+        <item>Was bekommen Sie, wenn Sie eine Weste auf einen Alligator legen\n\n\n\n… ein Ermittler</item>
+        <item>Warum war das Stadion so cool\n\n\n\n… es war voller Fans</item>
+        <item>Haben Sie von den beiden Antennen gehört, die geheiratet haben\n\n\n\n… Die Zeremonie war in Ordnung, aber der Empfang war großartig!</item>
+        <item>Warum war der Gepard so schlecht im Verstecken\n\n\n\n… egal wo sie sich versteckte, sie wurde immer entdeckt</item>
+        <item>Was macht ein neugieriger Pfeffer\n\n\n\n… es wird Jalapeno-Geschäft</item>
+        <item>Warum hat eine Ente Schwanzfedern\n\n\n\n… seinen Hintern Quacksalber zu bedecken</item>
+        <item>Was hat die Lehrerin mit dem Bericht ihrer Schüler über die Geschichte des Käses gemacht\n\n\n\n… sie rieb es</item>
+        <item>Was essen Katzen zum Frühstück\n\n\n\n… Mäuse-Krispies</item>
+        <item>Warum haben die Melonen nicht geheiratet\n\n\n\n… weil sie nicht entkommen können</item>
+        <item>Was tragen Wolken unter ihren Shorts\n\n\n\n… Donnerhose</item>
+    </string-array>
+
+
+</resources>
